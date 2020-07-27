@@ -1,0 +1,62 @@
+[
+    {   
+        "id":0,
+        "name" : "Mokacein",
+        "price": "150.50",
+        "image_url":"1.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1"        
+    
+    },
+    {
+        "id":1,
+        "name" : "Lofas",
+        "price": "380.00",
+        "image_url":"4.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1",
+        "total":0
+    },
+    {   
+        "id":2,
+        "name" : "Swayed",
+        "price": "550.00",
+        "image_url":"5.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1",
+        "total":0
+    },
+    {
+        "id":3,
+        "name" : "Akapkoro",
+        "price": "250.50",
+        "image_url":"9.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1",
+        "total":0
+    },
+    {
+        "id":4,
+        "name" : "Hides n Skin",
+        "price": "360.50",
+        "image_url":"7.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1",
+        "total":0
+    },
+    {
+        "id":5,
+        "name" : "Luthvell",
+        "price": "190.80",
+        "image_url":"8.jpg",
+        "description":"Move faster with a cloud MongoDB service. Built for agile teams who’d rather spend time building apps than managing databases. Available on AWS, Azure, and GCP.",
+        "brand":"Gucci",
+        "quantity":"1",
+        "total":0
+    }
+]
